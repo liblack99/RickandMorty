@@ -100,7 +100,7 @@
 }
 .Characters__card-info h2 {
   display: block;
-  width: 340px;
+  width: auto;
   font-size: 48px;
   margin-bottom: 20px;
   font-family: system-ui;
